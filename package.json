@@ -1,6 +1,6 @@
 {
   "name": "@gagansingh/lotide",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Clone of Lodash library made from scratch.",
   "main": "index.js",
   "directories": {
