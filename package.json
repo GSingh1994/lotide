@@ -1,0 +1,30 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "Clone of Lodash library made from scratch.",
+  "main": "assertArraysEqual.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSingh1994/lotide.git"
+  },
+  "keywords": [
+    "lotide",
+    "lodash"
+  ],
+  "author": "Gagandeep Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSingh1994/lotide/issues"
+  },
+  "homepage": "https://github.com/GSingh1994/lotide#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
