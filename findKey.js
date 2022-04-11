@@ -28,3 +28,4 @@ const test1 = findKey(
 );
 
 console.log(assertEqual(test1, 'noma'));
+module.exports = findKey;

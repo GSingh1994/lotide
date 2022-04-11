@@ -40,3 +40,4 @@ const eqArrays = (arr1, arr2) => {
 const result1 = letterPositions('lighthouse in the house');
 console.log(assertArraysEqual(result1['h'][0], 3));
 console.log(eqArrays(result1['h'][0], 3));
+module.exports = letterPositions;

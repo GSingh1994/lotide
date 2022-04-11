@@ -38,3 +38,4 @@ console.log(
   ]),
   true
 );
+module.exports = map;
